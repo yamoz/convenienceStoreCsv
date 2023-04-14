@@ -27,7 +27,7 @@ public class Executer {
 			}
 			switch (userInput) {
 			case 1:
-				grabber.BatchInsertFromUrl("https://quality.data.gov.tw/dq_download_csv.php?nid=32086&md5_url=70d75bd612378b4626495a70b7f1777c");
+				grabber.BatchInsertFromUrl("https://data.gcis.nat.gov.tw/od/file?oid=C054F05C-0A6B-428C-B388-288BDB0618E4");
 				System.out.println();
 				break;
 			case 2:
